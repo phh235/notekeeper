@@ -243,7 +243,8 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 body {
-  background-color: var(--background);
+  /* background-color: var(--background); */
+  background-color: var(--surface);
   color: var(--on-background);
   font-size: var(--fs-body-medium);
   line-height: var(--lh-base);
